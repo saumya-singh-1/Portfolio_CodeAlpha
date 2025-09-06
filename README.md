@@ -39,7 +39,7 @@ It showcases my skills, projects, resume, and contact information in a **clean a
 ![Projects](assets/images/projectsection.jpg)  
 
 ### 🔹 Responsive View  
-![Mobile](assets/images/responsive.mp4)  
+![Mobile](assets/images/responsive.gif)  
 
 ---
 
