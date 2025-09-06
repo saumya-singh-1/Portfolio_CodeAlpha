@@ -7,7 +7,7 @@ It showcases my skills, projects, resume, and contact information in a **clean a
 
 ## 🌍 Live Demo
 
-🔗 View Portfolio
+[🔗View Portfolio](https://saumya-singh-1.github.io/Portfolio_CodeAlpha/)
 
 ---
 ## 🚀 Features  
@@ -39,7 +39,7 @@ It showcases my skills, projects, resume, and contact information in a **clean a
 ![Projects](assets/images/projectsection.jpg)  
 
 ### 🔹 Responsive View  
-![Mobile](assets/images/project3.jpg)  
+![Mobile](assets/images/resview.jpg)  
 
 ---
 
