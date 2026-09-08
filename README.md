@@ -57,5 +57,5 @@ Portfolio/
 
 ## 📬 Contact
 
-[🔗LinkedIn](https://www.linkedin.com/in/saumya-singh-0256b5378/)
+[🔗LinkedIn](www.linkedin.com/in/saumya-singh-946b63321)
 [🔗GitHub](https://github.com/saumya-singh-1)    
